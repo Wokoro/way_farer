@@ -1,12 +1,3 @@
-[![Build Status](https://travis-ci.org/LukasChiama/Banka-App.svg?branch=develop)](https://travis-ci.org/LukasChiama/Banka-App)
-[![Coverage Status](https://coveralls.io/repos/github/LukasChiama/Banka-App/badge.svg?branch=develop&service=github)](https://coveralls.io/github/LukasChiama/Banka-App?branch=develop)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/b682600a774a0549806f/test_coverage)](https://codeclimate.com/github/LukasChiama/Banka-App/test_coverage)
-[![Maintainability](https://api.codeclimate.com/v1/badges/b682600a774a0549806f/maintainability)](https://codeclimate.com/github/LukasChiama/Banka-App/maintainability)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ce68d89786b940318d0c7f7557cda404)](https://www.codacy.com/app/LukasChiama/Banka-App?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=LukasChiama/Banka-App&amp;utm_campaign=Badge_Grade)
-[![dependencies Status](https://david-dm.org/LukasChiama/Banka-App/status.svg)](https://david-dm.org/LukasChiama/Banka-App)
-[![Known Vulnerabilities](https://snyk.io/test/github/LukasChiama/Banka-App/badge.svg?targetFile=package.json)](https://snyk.io/test/github/LukasChiama/Banka-App?targetFile=package.json)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 # WayFarer
 WayFarer is a public bus transportation booking API that is meant to power front-end applications. It helps users and admin to easily carry out activities involved in booking and managing a trip.
 

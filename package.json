@@ -4,9 +4,9 @@
   "description": "WayFarer is a public bus transportation booking API, that would be used to power front-end apps.",
   "main": "index.js",
   "scripts": {
-    "start": "babel-node index.js",
+    "start": "cross-env NODE_ENV=develop nodemon index.js --exec babel-node",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lint": "eslint --fix *"
+    "lint": "eslint --fix ./**/*.js"
   },
   "repository": {
     "type": "git",
@@ -55,6 +55,7 @@
     "compression": "^1.7.4",
     "cors": "^2.8.5",
     "coveralls": "^3.0.4",
+    "cross-env": "^5.2.0",
     "dotenv": "^8.0.0",
     "express": "^4.17.1",
     "mocha": "^6.1.4",
